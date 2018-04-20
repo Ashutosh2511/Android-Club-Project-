@@ -3,6 +3,8 @@ By Ashutosh Kumar(16BCE1328),Md Aamir Sohel Ansari(16BCE1074)
 
 Project name:-HEALTH START WITH DIET
 
+Steps to follow:
+
 Open android studio
 
 From the file option select open project and then select the main directory which contailns all the files and directories like build, gradle etc.
