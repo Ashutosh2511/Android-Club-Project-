@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Health Starts With A Diet</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="exercises">
+        <item>Push Up</item>
+        <item>Pull Up</item>
+        <item>Frog Stand</item>
+        <item>Work Out</item>
+        <item>Strech</item>
+        <item>Sit Ups</item>
+        <item>Skipping</item>
+        <item>Cart Wheel</item>
+        <item>Hand Stand</item>
+    </string-array>
+
+    <string-array name="bodytypelist">
+        <item>Children</item>
+        <item>Teenager Boy</item>
+        <item>Teenager Boy</item>
+        <item>Young Adult</item>
+        <item>Mid Age Man</item>
+        <item>Mid Age Woman</item>
+        <item>Old Man</item>
+        <item>Old Woman</item>
+    </string-array>
+</resources>
