@@ -1,6 +1,7 @@
 # Android-Club-Project-
 By Ashutosh Kumar(16BCE1328),Md Aamir Sohel Ansari(16BCE1074)
-open android studio
+
+Open android studio
 From the file option select open project and then select the main directory which contailns all the files and directories like build, gradle etc.
 Android studio will search the directory if all the important configuration files are present then it will load the project.
 Once the project gets loaded, on the left side there will be list of folders which has associated files of project.
