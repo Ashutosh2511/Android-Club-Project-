@@ -20,3 +20,5 @@ To get the android package, from the toolbar select build option and choose buil
 some screenshots of our project 
 
 ![screenshot_20180421-190458 1,20%](https://user-images.githubusercontent.com/31513483/39084838-88a5619e-4598-11e8-8a04-96d46de46959.png)
+
+![screenshot_20180421-190814 1,20%](https://user-images.githubusercontent.com/31513483/39084925-f80f017e-4599-11e8-8d7b-c7094b247612.png)
