@@ -22,3 +22,7 @@ we have seven module in our project
 ![screenshot_20180421-190458 1,20%](https://user-images.githubusercontent.com/31513483/39084838-88a5619e-4598-11e8-8a04-96d46de46959.png)
 
 ![screenshot_20180421-190814 1,20%](https://user-images.githubusercontent.com/31513483/39084925-f80f017e-4599-11e8-8d7b-c7094b247612.png)
+![screenshot_20180421-190755 1](https://user-images.githubusercontent.com/31513483/39085147-1dc5d2ce-459c-11e8-9d99-d110cf6cd939.png)
+![screenshot_20180421-190846 1](https://user-images.githubusercontent.com/31513483/39085157-48245df6-459c-11e8-9b2e-e01f6d605ee5.png)
+
+![screenshot_20180421-190558 1](https://user-images.githubusercontent.com/31513483/39085168-696e94c2-459c-11e8-8fd4-f03a8ae66036.png)
