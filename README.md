@@ -16,3 +16,7 @@ Once the project gets loaded, on the left side there will be list of folders whi
 It will contain the mainifest files where we have mentioned all tha\e activities files, in some other folder like src>java contains all the important java codes for the main logic of the program like animation in the beginning, diet generation logic and other app feathures like transition from one a tivty to other.
 
 To get the android package, from the toolbar select build option and choose build apk. It will create and android package file (APK) which can be directly run on any android device having android version greater than 4.2.
+
+some screenshots of our project 
+
+![screenshot_20180421-190458 1](https://user-images.githubusercontent.com/31513483/39084838-88a5619e-4598-11e8-8a04-96d46de46959.png)
